@@ -1,0 +1,52 @@
+{
+  "preset": "Default",
+  "closed": false,
+  "remembered": {
+    "Default": {
+      "0": {
+        "intensity": 1,
+        "color": "#ffffff"
+      },
+      "1": {
+        "intensity": 1,
+        "color": "#ffffff",
+        "castShadow": true
+      },
+      "2": {
+        "toneMappingExposure": 0.85,
+        "environment": true
+      },
+      "3": {
+        "color": "#aeaeae",
+        "normalMap": false,
+        "metalness": 0,
+        "metalnessMap": false,
+        "roughness": 0.5,
+        "map": false,
+        "emissive": "#000000"
+      }
+    }
+  },
+  "folders": {
+    "Ambient": {
+      "preset": "Default",
+      "closed": true,
+      "folders": {}
+    },
+    "Spot": {
+      "preset": "Default",
+      "closed": true,
+      "folders": {}
+    },
+    "environment": {
+      "preset": "Default",
+      "closed": true,
+      "folders": {}
+    },
+    "Wall": {
+      "preset": "Default",
+      "closed": true,
+      "folders": {}
+    }
+  }
+}

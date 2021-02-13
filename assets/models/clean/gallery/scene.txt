@@ -1,0 +1,71 @@
+{
+    "wall": {
+        "name": "wall",
+        "width": 8.92,
+        "startPosition": -4.575, 
+        "rotation": 0,
+        "heightFrom": 0, 
+        "heightTo": 3.53,
+        "depth": -7.47,
+        "maxPaints": 2
+    },  
+    "wall_2": {
+        "name": "wall_2",
+        "width": 14.94,
+        "startPosition": -7.47,
+        "rotation": 270,
+        "heightFrom": 0,
+        "heightTo": 3.53,
+        "depth": 4.43,
+        "maxPaints": 4
+    },
+    "wall_3": {
+        "name": "wall_3", 
+        "width": 8.92,
+        "startPosition": -4.575,
+        "rotation": 180,
+        "heightFrom": 0, 
+        "heightTo": 3.53,
+        "depth": 7.47,
+        "maxPaints": 3
+    },
+    "wall_4": {
+        "name": "wall_4",
+        "width": 14.94, 
+        "startPosition": -7.47,
+        "rotation": 90,
+        "heightFrom": 0,
+        "heightTo": 3.53,
+        "depth": -4.47,
+        "maxPaints": 5
+    }, 
+    "tourWaitTime": {
+        "tourWaitTimeMillisecinds": 2000
+    },
+    "goToNextPainting":{
+        "goToNextPaintingTimeMilliseconds": 2000
+    },
+    "roomID":{
+        "ID": 12345
+    }, 
+        "wallText": {
+        "wallName" : "wall",
+        "positionY": 2.5,
+        "font": "https://threejs.org/examples/fonts/helvetiker_regular.typeface.json",
+        "firstLine": {
+          "text":"Hello",
+          "size": 0.3, 
+          "color": "#ff0000"
+        },
+        "secondLine": {
+            "text": "world",
+            "size": 0.15,
+            "color": "green"
+        }, 
+        "thirdLine": {
+            "text": "Lorem", 
+            "size": 0.3, 
+            "color": "#000"
+        }
+    }
+}
